@@ -32,7 +32,7 @@ Follow these steps:
 
 ## Use the app
 
-- Follow the instructions here "https://github.com/maelpaul/website_qrcode" to launch the server.
+- Follow the instructions here: "https://github.com/maelpaul/website_qrcode" to launch the server.
 
 - Open the app and grant all the permissions.
 
