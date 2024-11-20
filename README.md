@@ -36,7 +36,7 @@ Follow these steps:
 
 - Open the app and grant all the permissions.
 
-- Scan a QR code and click on link to go on the website.
+- Scan a QR code and click on the link to go on the website.
 
 ## 
 
