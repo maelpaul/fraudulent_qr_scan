@@ -53,7 +53,7 @@ class MainActivity : AppCompatActivity() {
     companion object {
         // Define a public static variable
         var androidId: String = ""
-        var ipServer = "172.20.10.10"
+        var ipServer = "192.168.1.32"
     }
 
     // ------- ACTIONS TO PERFORM WHEN CREATING AND DESTROYING THE ACTIVITY -----------
